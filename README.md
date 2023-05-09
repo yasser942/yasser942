@@ -20,13 +20,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Yasser+Al-Hasan!;I'm+a+computer+engineer;Welcome+to+my+profile!" style="color:mix" />
