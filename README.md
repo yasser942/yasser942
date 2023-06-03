@@ -24,7 +24,6 @@
   [![Arduino](https://img.shields.io/badge/-Arduino-%2300979D?style=flat-square&logo=Arduino&logoColor=ffffff)](https://github.com/arduino/Arduino)
   [![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=flat-square&logo=Dart&logoColor=ffffff)](https://github.com/dart-lang)
   [![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java&logoColor=ffffff)](https://github.com/topics/java)
-  [![SQL](https://img.shields.io/badge/-SQL-%23FFCA28?style=flat-square&logo=SQL&logoColor=ffffff)](https://github.com/topics/sql)
   [![MySQL](https://img.shields.io/badge/-MySQL-%2300758F?style=flat-square&logo=MySQL&logoColor=ffffff)](https://github.com/mysql/mysql-server)
 
 
