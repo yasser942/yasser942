@@ -15,16 +15,37 @@
 </p>
 <p align="center">
  ### Languages and Tools 🛠 : 
+  
+  
+  [![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=Laravel&logoColor=ffffff)](https://github.com/laravel/laravel)
+  [![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=flat-square&logo=Flutter&logoColor=ffffff)](https://github.com/flutter/flutter)
+  [![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=flat-square&logo=Firebase&logoColor=ffffff)](https://github.com/firebase/firebase-ios-sdk)
+  [![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=PHP&logoColor=ffffff)](https://github.com/php/php-src)
+  [![Arduino](https://img.shields.io/badge/-Arduino-%2300979D?style=flat-square&logo=Arduino&logoColor=ffffff)](https://github.com/arduino/Arduino)
+  [![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=flat-square&logo=Dart&logoColor=ffffff)](https://github.com/dart-lang)
+  [![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java&logoColor=ffffff)](https://github.com/topics/java)
+  [![SQL](https://img.shields.io/badge/-SQL-%23FFCA28?style=flat-square&logo=SQL&logoColor=ffffff)](https://github.com/topics/sql)
+  [![MySQL](https://img.shields.io/badge/-MySQL-%2300758F?style=flat-square&logo=MySQL&logoColor=ffffff)](https://github.com/mysql/mysql-server)
+
+
+
+
+
+
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+        [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=ffffff)](https://github.com/laravel/laravel)
+
+
+
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Yasser+Al-Hasan!;I'm+a+computer+engineer;Welcome+to+my+profile!" style="color:mix" />
