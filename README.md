@@ -8,7 +8,9 @@
   <a href="mailto:yasseralhassan942@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yasser-al-hassan-ab1999212/">
+  <a href="https://www.linkedin.com/in/yasser-el-hasan-ab1999212/">
+  
+    
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
