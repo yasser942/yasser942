@@ -23,7 +23,8 @@
   [![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=flat-square&logo=Dart&logoColor=ffffff)](https://github.com/dart-lang)
   [![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java&logoColor=ffffff)](https://github.com/topics/java)
   [![MySQL](https://img.shields.io/badge/-MySQL-%2300758F?style=flat-square&logo=MySQL&logoColor=ffffff)](https://github.com/mysql/mysql-server)
-  
+  [![React](https://img.shields.io/badge/-React-%2320232A?style=flat-square&logo=React&logoColor=%2361DAFB)](https://github.com/facebook/react)
+
   ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
