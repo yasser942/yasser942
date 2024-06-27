@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hello, I'm Yasser Al-Hasan! ♥</h1>
+<h1 align="center">🚀 Hello, I'm Yasser El Hasan ♥</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 </p>
@@ -24,6 +24,7 @@
   [![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java&logoColor=ffffff)](https://github.com/topics/java)
   [![MySQL](https://img.shields.io/badge/-MySQL-%2300758F?style=flat-square&logo=MySQL&logoColor=ffffff)](https://github.com/mysql/mysql-server)
   [![React](https://img.shields.io/badge/-React-%2320232A?style=flat-square&logo=React&logoColor=%2361DAFB)](https://github.com/facebook/react)
+  [![React Native](https://img.shields.io/badge/-React%20Native-%2320232A?style=flat-square&logo=React&logoColor=%2361DAFB)](https://github.com/facebook/react-native)
 
   ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
