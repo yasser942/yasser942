@@ -38,5 +38,5 @@
   [![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)](https://vuejs.org/)
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Yasser+Al-Hasan!;I'm+a+computer+engineer;Welcome+to+my+profile!" style="color:mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Yasser+El+Hasan!;I'm+a+computer+engineer;Welcome+to+my+profile!" style="color:mix" />
 </p>
